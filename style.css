@@ -1,0 +1,11 @@
+body {
+	height: 90vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #aaa;
+}
+
+#display>*{
+	border: 1px dashed black;
+}
